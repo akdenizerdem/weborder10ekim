@@ -1,0 +1,14 @@
+C:\Users\erdem\Source\Repos\webOrder10ekim\Dal\bin\Debug\Dal.dll.config
+C:\Users\erdem\Source\Repos\webOrder10ekim\Dal\bin\Debug\Dal.dll
+C:\Users\erdem\Source\Repos\webOrder10ekim\Dal\bin\Debug\Dal.pdb
+C:\Users\erdem\Source\Repos\webOrder10ekim\Dal\bin\Debug\Abstract.dll
+C:\Users\erdem\Source\Repos\webOrder10ekim\Dal\bin\Debug\EntityFramework.dll
+C:\Users\erdem\Source\Repos\webOrder10ekim\Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\erdem\Source\Repos\webOrder10ekim\Dal\bin\Debug\Abstract.pdb
+C:\Users\erdem\Source\Repos\webOrder10ekim\Dal\bin\Debug\EntityFramework.xml
+C:\Users\erdem\Source\Repos\webOrder10ekim\Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\erdem\Source\Repos\webOrder10ekim\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+C:\Users\erdem\Source\Repos\webOrder10ekim\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\erdem\Source\Repos\webOrder10ekim\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\erdem\Source\Repos\webOrder10ekim\Dal\obj\Debug\Dal.dll
+C:\Users\erdem\Source\Repos\webOrder10ekim\Dal\obj\Debug\Dal.pdb

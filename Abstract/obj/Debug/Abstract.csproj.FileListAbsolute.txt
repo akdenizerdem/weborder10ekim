@@ -1,0 +1,5 @@
+C:\Users\erdem\Source\Repos\webOrder10ekim\Abstract\bin\Debug\Abstract.dll
+C:\Users\erdem\Source\Repos\webOrder10ekim\Abstract\bin\Debug\Abstract.pdb
+C:\Users\erdem\Source\Repos\webOrder10ekim\Abstract\obj\Debug\Abstract.csproj.CoreCompileInputs.cache
+C:\Users\erdem\Source\Repos\webOrder10ekim\Abstract\obj\Debug\Abstract.dll
+C:\Users\erdem\Source\Repos\webOrder10ekim\Abstract\obj\Debug\Abstract.pdb
